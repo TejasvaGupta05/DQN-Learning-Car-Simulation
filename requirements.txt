@@ -1,0 +1,6 @@
+socket
+numpy
+pandas
+matplotlib
+torch
+torchvision
