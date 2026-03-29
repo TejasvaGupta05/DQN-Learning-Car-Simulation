@@ -14,7 +14,8 @@ Unlike traditional approaches that train offline, this system performs **live le
 
 ## Demo
 
-> (Add your GIF or video here)
+<img width="1919" height="1079" alt="Screenshot 2026-03-29 145846" src="https://github.com/user-attachments/assets/2e9a99b4-cc41-428b-89c9-b39554216c9b" />
+
 
 ---
 
